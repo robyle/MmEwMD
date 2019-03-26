@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2019-03-26T21:42:36.3073806+08:00" FiddlerVersion="5.0.20182.28034">
+  <State Enabled="true" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="https://ielts.neea.cn/4QbVtADbnLVIc/d.FxJzG50F" Action="D:\Projects\Nean\ielts\2_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/jquery-1.10.2.min.js" Action="D:\Projects\Nean\ielts\3_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/jquery-migrate-1.2.1.min.js" Action="D:\Projects\Nean\ielts\4_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/themes/jquery-ui-1.10.3.custom.min.js" Action="D:\Projects\Nean\ielts\5_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/themes/jquery-ui-i18n.min.js" Action="D:\Projects\Nean\ielts\6_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/jquery.metadata.js" Action="D:\Projects\Nean\ielts\7_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/jquery.cookie.js" Action="D:\Projects\Nean\ielts\8_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/jquery.validate.min.js" Action="D:\Projects\Nean\ielts\9_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/additional-methods.min.js" Action="D:\Projects\Nean\ielts\10_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/jquery.md5.min.js" Action="D:\Projects\Nean\ielts\11_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/jquery.formatCurrency-1.4.0.min.js" Action="D:\Projects\Nean\ielts\12_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/jquery.formatCurrency.zh-CN.js" Action="D:\Projects\Nean\ielts\13_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/fileupload/vendor/jquery.ui.widget.js" Action="D:\Projects\Nean\ielts\14_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/fileupload/jquery.iframe-transport.js" Action="D:\Projects\Nean\ielts\15_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/fileupload/jquery.fileupload.js" Action="D:\Projects\Nean\ielts\16_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/jquery.smallipop.min.js" Action="D:\Projects\Nean\ielts\17_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/jquery.base64.min.js" Action="D:\Projects\Nean\ielts\18_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/jquery/plugins/jquery.tmpl.js" Action="D:\Projects\Nean\ielts\19_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/bootstrap/js/bootstrap.min.js" Action="D:\Projects\Nean\ielts\20_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/bootstrap/bootstrap-better-typeahead/bootstrap-better-typeahead.min.js" Action="D:\Projects\Nean\ielts\21_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/bootstrap/js/unslider.js" Action="D:\Projects\Nean\ielts\22_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/js/scrollBoard.js" Action="D:\Projects\Nean\ielts\23_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/js/passwordStrength.js" Action="D:\Projects\Nean\ielts\24_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/js/base.js" Action="D:\Projects\Nean\ielts\base0325.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/js/validatorExtendsCN.js" Action="D:\Projects\Nean\ielts\26_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/js/jquery.scrollTo.js" Action="D:\Projects\Nean\ielts\27_.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/layer/layer.min.js" Action="D:\Projects\Nean\ielts\28_.js" Enabled="true" />
+    <ResponseRule Match="https://ielts.neea.cn/4QbVtADbnLVIc/c.FxJzG50F" Action="D:\Projects\Nean\ielts\c.FxJzG50F.js" Enabled="true" />
+    <ResponseRule Match="EXACT:https://ielts.neea.cn/login" Action="D:\Projects\Nean\ielts\login_1_.htm" DisableAfterMatch="true" Enabled="false" />
+  </State>
+</AutoResponder>
